@@ -8,4 +8,8 @@
 > 5. 测试数据
 > 6. 使用数据
 
-$a^1=1$
+$$a^1=1$$
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
